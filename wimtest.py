@@ -4,6 +4,8 @@ import random
 def hello_world() -> None:
     print("Hello, world!")
 
+# comment
+# comment 2 
 
 hello_world()
 
