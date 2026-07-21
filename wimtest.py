@@ -2,7 +2,7 @@ import random
 
 
 def hello_world() -> None:
-    print("Hello, world!")
+    print("Hello, Wim!")
 
 # comment
 # comment 2 
