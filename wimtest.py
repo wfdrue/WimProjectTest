@@ -5,7 +5,7 @@ def hello_world() -> None:
     print("Hello, plop!")
 
 # comment
-# comment 4
+# comment 5
 
 hello_world()
 
